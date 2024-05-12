@@ -4,7 +4,7 @@ Chat UI for local offline Llama3 Model to chat with.
 ## Architecture
 ![Alt text](architecture.png?raw=true "Architecture")
 
-## Streamlit UI
+## Gradio UI
 ![Alt text](llama3_gradio.png?raw=true "Streamlit UI")
 
 ## Prerequisites
@@ -21,7 +21,7 @@ In your terminal:
 
   `pip3 install -r requirements.txt`
 
-## Run the Streamlit app
+## Run the Gradio app
 
   `python3 run gradio_app_v1.py`
 
